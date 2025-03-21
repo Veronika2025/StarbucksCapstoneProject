@@ -1,7 +1,7 @@
 # StarbucksCapstoneProject
 Udacity Data Science Project
 
-# Project Summary:
+# Project Motivation:
 This project is part of the Udacity Data Science Nonadegree Class. The aim is to analyse a dataset from Starbucks, combining different data sets to identify which factors influence the successful use of an offer.
 
 The three question that shall be answered are the following:
@@ -9,6 +9,8 @@ a) Which groups of people are most responsive to offers?
 b) Is there a difference between different offer types?
 c) How best to present each type of offer?
 
+# Installation:
+The code should run with Python Version 3. The following libraries were used: pandas, numby, seaborn, sklearn, math, json, ast, statsmodels and the matplotlib.
 
 # Data:
 The project data is provided by Starbucks through Udacity. The dataset contains three data files: (1) portfolio, (2) profile and (3) transcript.
